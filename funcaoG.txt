@@ -1,14 +1,6 @@
-funcaoABC{
-	24
-}
-
 funcaoVitor{
 	23q4534
 	235346
-}
-
-funcao123{
-	afesfe
 }
 
 funcao456{
