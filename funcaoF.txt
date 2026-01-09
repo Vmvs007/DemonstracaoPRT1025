@@ -1,0 +1,7 @@
+funcaoABC{
+	24
+}
+
+funcao123{
+	afesfe
+}
